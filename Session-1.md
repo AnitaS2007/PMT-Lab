@@ -60,11 +60,11 @@
       >Used for managing model context protocol integration.
       >Mostly used by developers working will AI Integrations.
 ## BASIC GIT COMMANDS:
-  1. git init - start repository
-  2. git status - check project status
-  3. git add - add files to staging
-  4. git commit - save changes
-  5. git push - upload a to GitHub
-  6. git pull - download from GitHub
-  7. git clone - copy repository
+  1. git init - start repository.
+  2. git status - check project status.
+  3. git add - add files to staging.
+  4. git commit - save changes.
+  5. git push - upload a to GitHub.
+  6. git pull - download from GitHub.
+  7. git clone - copy repository.
     
