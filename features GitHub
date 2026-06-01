@@ -1,56 +1,56 @@
-1. Version Control with Git
-Tracks changes in code over time
-Allows multiple developers to work on the same project
-Supports branching and merging
-2.Repositories (Repos)
-Store project files, code, and documentation
+## 1. Version Control with Git
+* Tracks changes in code over time
+* Allows multiple developers to work on the same project
+    Supports branching and merging
+## 2.Repositories (Repos)
+* Store project files, code, and documentation
 Can be public or private
-Organized with folders, commits, and release versions
-3. Collaboration Tools
-Multiple contributors can work together
-Pull Requests (PRs) for reviewing and merging code
+* Organized with folders, commits, and release versions
+## 3. Collaboration Tools
+* Multiple contributors can work together
+* Pull Requests (PRs) for reviewing and merging code
 Code review and inline comments
-4. Issues and Bug Tracking
-Create issues for bugs, tasks, or feature requests
-Assign labels, milestones, and team members
-Track project progress
-5. GitHub Actions (CI/CD)
-Automates workflows like testing and deployment
-Continuous Integration and Continuous Deployment support
-Runs workflows on code changes automatically
-6. Forking and Cloning
-Fork: copy another repository to your account
-Clone: download a repository to your local computer
-7. GitHub Pages
-Host websites directly from repositories
-Useful for portfolios, documentation, and project sites
-8. Security Features
-Dependency vulnerability alerts
-Secret scanning
-Code scanning with security analysis tools
-9. Project Management
-Kanban-style project boards
-Task tracking and milestones
-Team collaboration features
-10. Documentation Support
-README files for project descriptions
-Wikis for detailed documentation
-Markdown support for formatting
-11. Open Source Community
-Millions of open-source projects available
-Developers can contribute worldwide
-Easy contribution through pull requests
-12. GitHub Copilot
-AI-powered coding assistant
-Suggests code and completions
-Helps improve productivity
-13. Codespaces
-Cloud-based development environment
-Code directly in the browser
-Preconfigured development setups
-14. Discussions
-Community forums inside repositories
-Q&A and idea sharing
-15. Releases and Packages
-Publish software versions/releases
-Store and manage packages and containers
+## 4. Issues and Bug Tracking
+* Create issues for bugs, tasks, or feature requests
+* Assign labels, milestones, and team members
+   Track project progress
+## 5. GitHub Actions (CI/CD)
+* Automates workflows like testing and deployment
+* Continuous Integration and Continuous Deployment support
+* Runs workflows on code changes automatically
+## 6. Forking and Cloning
+## Fork: copy another repository to your account
+## Clone: download a repository to your local computer
+## 7. GitHub Pages
+* Host websites directly from repositories
+* Useful for portfolios, documentation, and project sites
+## 8. Security Features
+* Dependency vulnerability alerts
+* Secret scanning
+* Code scanning with security analysis tools
+## 9. Project Management
+* Kanban-style project boards
+* Task tracking and milestones
+* Team collaboration features
+## 10. Documentation Support
+* README files for project descriptions
+* Wikis for detailed documentation
+* Markdown support for formatting
+## 11. Open Source Community
+* Millions of open-source projects available
+* Developers can contribute worldwide
+* Easy contribution through pull requests
+## 12. GitHub Copilot
+* AI-powered coding assistant
+* Suggests code and completions
+* Helps improve productivity
+## 13. Codespaces
+* Cloud-based development environment
+* Code directly in the browser
+* Preconfigured development setups
+## 14. Discussions
+* Community forums inside repositories
+* Q&A and idea sharing
+## 15. Releases and Packages
+* Publish software versions/releases
+* Store and manage packages and containers
